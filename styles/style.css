@@ -39,20 +39,27 @@ footer {
 
 .content {
     display: flex;
+    width: 1100;
+    height: 650px;
+    background-color: white;
+    box-shadow:  20px 20px 20px rgba(0, 0, 0, 0.171);
+    border-radius: 20px;
+
 }
 
 .content-page {
-    border-radius: 20px 0 0 20px;
     width: 550px;
     height: 650px;
-    background-color: white;
+}
+
+.woman {
+    position: relative;
+    margin: -30px;
 }
 
 .content-faq {
-    border-radius: 0 20px 20px 0;
     width: 550px;
     height: 650px;
-    background-color: white;
 }
 
 
