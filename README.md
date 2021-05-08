@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/HomunculusAdvence/projeto2]]
-- Live Site URL: [https://6xe17.csb.app/]
+- Solution URL: [https://github.com/HomunculusAdvence/FrontEndMentor-project-2]
+- Live Site URL: [https://ze6jl.csb.app/]
 
 ## My process
 
